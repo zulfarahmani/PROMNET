@@ -1,0 +1,11 @@
+* {
+    background-color: antiquewhite;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+img {
+    width: 25%; margin : 30px auto; display: block;
+}
