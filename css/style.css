@@ -1,0 +1,83 @@
+header{
+    background: #1a224b;
+    width: 86%;
+    margin: auto;
+    color: white;
+    line-height: 120px;
+    padding-left: 4%;
+}
+
+nav{
+    background: #1a224b;
+    line-height: 50px;
+    height: 50px;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    width: 60px;
+    float: left;
+    display: block;
+    text-align: center;
+}
+
+#container{
+    width: 90%;
+    margin: auto;
+    min-height: 100px;
+    overflow: hidden;
+    background: white;
+    color: #333;
+}
+
+.kiri{
+    width: 69%;
+    float: left;
+    margin: auto;
+    background: white;
+}
+
+.content{
+    border: 2px solid black;
+    margin-top: 1pc;
+    padding-bottom: 1pc;
+    padding-left: 2pc;
+    padding-right: 2pc;
+}
+
+.kanan h3{
+    border-bottom: 1px solid black;
+    padding-bottom: 3%;
+}
+
+.kanan{
+    width: 29%;
+    float: right;
+    margin: auto;
+    background: white;
+    list-style: none;
+}
+
+.kanan a{
+    text-decoration: none;
+    line-height: 35px;
+}
+
+footer h4{
+    background: #1a224b;
+    width: 86%;
+    padding-left: 4%;
+    margin: 0 auto;
+    color: white;
+    line-height: 40px;
+    margin-top: 1%;
+}
